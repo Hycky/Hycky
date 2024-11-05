@@ -2,7 +2,7 @@
 
 **`Analista de Business Intelligence`**
 
-Me chamdo Henrique Ferreira Henrique, sou natural do Rio de janeiro e apaixonado por dados e tudo que é possível fazer com eles, sou apaixonado por tecnologia e gerar insights a partir de dados, sou formado em Processos Gerenciais e estou cursando pós graduação em Ciência de dados e big data analytics
+Me chamo Henrique Ferreira Henrique, sou natural do Rio de janeiro e apaixonado por dados e tudo que é possível fazer com eles, sou apaixonado por tecnologia e gerar insights a partir de dados, sou formado em Processos Gerenciais e estou cursando pós graduação em Ciência de dados e big data analytics
 
 Tenho diversas certificações, incluindo a certificação PL-300 de Analista de Dados Power BI da Microsoft e a certificação DP-600 Fabric Analytics Engineer Associate. Também possuo uma certificação Black Belt em Lean Six Sigma
 
